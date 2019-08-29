@@ -1,0 +1,72 @@
+
+
+
+
+
+
+
+# List of all subjects at St pats
+
+VCAL
+English
+Accounting
+Business Management
+Criminology
+Economics
+History
+Humanities
+Industry & Enterprise
+International Studies
+Legal Studies
+Australian Business
+Empires At Work
+Transition
+Japanese
+Music
+Philosophy
+Religion & Society
+Religious Education
+Text & Traditions
+Design Technology
+Food Studies
+Food Technology
+Product Design & Technology
+Systems Engineering
+Building & Construction
+Computing
+Informatics
+Software Development
+Information & Communication Technology
+Linguistics
+Employment Pathways
+Biology
+Physics
+Chemistry
+Psychology
+Science & Society
+Forensic Science
+The Science of Human Conflict
+Studio Art
+Art
+Media
+Photography
+Theatre Studies
+Architectural Design
+Visual Communication
+Health
+Physical Education
+Outdoor & Environmental Studies
+Sport
+Health & Human Development
+Wilderness Skills
+Foundation Maths 
+Further Maths
+General Maths
+Mathematical Methods
+Maths
+Mathematics - Advanced
+Mathematics - Pre-Methods
+Mathematics - Standard
+Modified Mathematics
+Specialist Mathematics
+Tradition Mathematics
